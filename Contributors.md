@@ -22,6 +22,7 @@ Kanish Anand-
  [Khalid Elassaad]()
 - [Jesse Hillman] (https://github.com/proton5)
 - [Kirsty Fuquay](https://github.com/kfuquay)
+Keilts
 - [Maxwell Williams](https://github.com/maxuwilliams)
 - [Alex Moran]()
 -[Thibault Devienne]()
